@@ -1,4 +1,4 @@
-# Terms of Service
+# Nutzungsbedingungen
 Wir möchten, dass Sie diesen Dienst zum persönlichen Vergnügen und für einen respektvollen & freundlichen Umgang nutzen. Zu diesem Zweck hoffen wir, ein einladendes und integratives Umfeld zu schaffen.
 
 Der Server ist in Privatbesitz und steht den nutzenden Personen freiwillig offen, er ist kein öffentlicher Raum. Von Benutzerinnen & Benutzern, die sich dieser Gemeinschaft anschließen möchten, wird erwartet, dass sie ohne Böswilligkeit und in gutem Glauben handeln. Andernfalls kann es zu einem Ausschluss aus dem Dienst kommen, unabhängig davon, ob eine Benutzerin oder ein Benutzer gegen die unten aufgeführten Regeln verstößt.
@@ -12,7 +12,7 @@ Die folgenden Aussagen gelten unabhängig von der Datenschutzstufe und der Insta
 
 ## Richtlinien und Regeln
 
-Unsere Instanz unterliegt einer Reihe von Regeln für das Nutzerverhalten. Die Regeln sind jederzeit auf unserer Info-Seite und in unserem öffentlichen Repository einsehbar.
+Unsere Instanz unterliegt einer Reihe von Regeln für das Nutzerverhalten. Die Regeln sind jederzeit auf unserer Info-Seite und in unserem [öffentlichen Repository](https://github.com/maxheadroom/hub.uckermark.social) einsehbar.
 
 Diese Regeln sollen eine freundliche und offene Atmosphäre aufrechterhalten und Belästigung und Diskriminierung verhindern. Als solche sind sie eine Reihe von Richtlinien, die jedoch notwendigerweise unvollständig sind. Benutzerinnen oder Benutzer, die gegen den Geist dieser Regeln verstoßen, werden nicht anders behandelt als Benutzerinnen oder Benutzer, die gegen eine bestimmte Regel verstoßen.
 
